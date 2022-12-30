@@ -1,0 +1,7 @@
+/target/
+/bin/
+/.classpath
+/.project
+.settings/
+test.txt
+/test2.txt
